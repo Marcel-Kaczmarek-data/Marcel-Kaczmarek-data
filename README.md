@@ -40,7 +40,7 @@ End-to-end streaming data platform featuring real-time event processing, lakehou
 <h3>Enterprise Financial Data Warehouse</h3>
 
 <a href="https://github.com/Marcel-Kaczmarek-data/enterprise-financial-data-warehouse">
-<img src="./assets/financial-warehouse.png" width="100%" alt="Enterprise Financial Data Warehouse"/>
+<img src="https://github.com/Marcel-Kaczmarek-data/Marcel-Kaczmarek-data/blob/main/02_executive_overview.png" width="100%" alt="Enterprise Financial Data Warehouse"/>
 </a>
 
 Enterprise financial data warehouse featuring incremental ingestion, multi-currency consolidation, financial reconciliation, and an interactive CFO dashboard.

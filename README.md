@@ -25,7 +25,7 @@ Passionate about building scalable software, distributed systems, reliable data 
 <h3>Real-Time E-Commerce Data Platform</h3>
 
 <a href="https://github.com/Marcel-Kaczmarek-data/real-time-ecommerce-data-platform">
-<img src="./assets/ecommerce-platform.png" width="100%" alt="Real-Time E-Commerce Data Platform"/>
+<img src="https://github.com/Marcel-Kaczmarek-data/Marcel-Kaczmarek-data/blob/main/01_executive_overview.png" width="100%" alt="Real-Time E-Commerce Data Platform"/>
 </a>
 
 End-to-end streaming data platform featuring real-time event processing, lakehouse architecture, Customer 360 analytics, and automated data pipelines.
